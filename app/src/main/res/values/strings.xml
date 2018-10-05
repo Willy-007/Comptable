@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comptable</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt_compagny_name"> Company name </string>
+    <string name="button_addCompagny">Validate</string>
+    <string name="prompt_account_name"> Account Name </string>
+</resources>

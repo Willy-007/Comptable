@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comptable</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="prompt_compagny_name">Nom de la société</string>
+    <string name="button_addCompagny">Valider</string>
+    <string name="prompt_account_name"> Nom du compte </string>
+</resources>
